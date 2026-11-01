@@ -1,0 +1,6 @@
+{
+  "name": "FUTURE LAB - Боловсролын тоглоомын платформ",
+  "description": "Програмчлал, AI, роботик, автоматжуулалтыг бодит кодын тоглоом тоглож эзэмших Монгол платформын цахим систем.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
